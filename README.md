@@ -1,6 +1,6 @@
 # About-Me
 
-# Hi there 👋, I'm Shailendra Das
+# Hi there 👋, I'm Shailendra Kumar
 
 ## 🚀 About Me
 - 🎓 **B.Tech. from BIT Durg (CSVTU)**  

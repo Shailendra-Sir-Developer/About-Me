@@ -21,7 +21,8 @@
 ---
 
 ## 💼 Work Experience
-- **Owner & Director** – Vandana Computer Education, Bhilai (www.vcebhilai.com) Website Fully Design & Development By Me (MCA Shailendra Sir)  
+- **Owner & Director** – Vandana Computer Education, Bhilai (www.vcebhilai.com) Website Fully Design & Development By Me (MCA Shailendra Sir)
+- **VCE Bhilai Website** – https://www.vcebhilai.in/ - Website Fully Design & Development By Me (MCA Shailendra Sir) 
 - **Founder** – Shailendra Computer & Printer's Bhilai 
 - **Graphic Designer & Trainer** – Digital Shakha, Smriti Nagar (3 years)  
 - **Vocational Training:**  
